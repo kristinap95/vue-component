@@ -13,7 +13,8 @@ Then, include following script tags in your html code:
 
 
 Example of component:
-```<v-card
+```
+<v-card
     thumbnail="https://masteringjs.io/assets/images/vue/vue-transparent.png"
     headertext="Vue.js"
     subhead="Javascript framework"
@@ -22,4 +23,3 @@ Example of component:
     >
 </v-card>
 ```
-
