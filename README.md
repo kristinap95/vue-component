@@ -11,7 +11,6 @@ Then, include following script tags in your html code:
 
 <script src="path/to/dist/v-card.min.js"></script>
 
-
 Example of component:
 ```
 <v-card
